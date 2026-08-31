@@ -75,7 +75,7 @@
 
 | 週次 | 主題與內容綱要 | 作業 |
 |------|-------------|------|
-| [Week 01]({{ISSUES_LINK}}) | [**課程介紹**]({{SLIDES_LINK}})<br>說明課程目標、學習方式、評分規則與工具環境（Colab、GitHub、Judgecode 等） | [操作練習]({{COLAB_LINK}})<br>[**課前調查**]({{FORMS_LINK}}) |
+| [Week 01](https://github.com/shiunyi71/PythonAI4Beginners/issues/1) | [**課程介紹**](https://homepage.ntu.edu.tw/~jfanc/Marp/HML02_Python%20AI%20%e5%af%a6%e4%bd%9c%e5%85%a5%e9%96%80%e8%aa%b2%e7%a8%8b/HML01_%e7%ac%ac%e4%b8%80%e5%a0%82%e8%aa%b2/)<br>說明課程目標、學習方式、評分規則與工具環境（Colab、GitHub、作業系統 等） | [**HW0**](https://forms.gle/Wt8dpxz3hFW6dZ6v8)<br>[**HW1**](https://forms.gle/ZsXFA5bCZ4HR5P1W8) |
 | [Week 02]({{ISSUES_LINK}}) | [**AI 基礎概念與生活應用**]({{SLIDES_LINK}})<br>• 什麼是 AI？AI 在生活中的應用（智慧助手、推薦系統）<br>• AI 與生活議題的連結與探討 | [操作練習]({{COLAB_LINK}})<br>[HW1]({{FORMS_LINK}}) |
 | [Week 03]({{ISSUES_LINK}}) | [**AI 應用 + Python（上）**]({{SLIDES_LINK}})<br>• 認識 Python 語法基礎（變數、輸入輸出、條件判斷）<br>• 實作：設計一個簡易的 Q&A 聊天機器人 | [操作練習]({{COLAB_LINK}})<br>[HW2]({{FORMS_LINK}}) |
 | [Week 04]({{ISSUES_LINK}}) | [**AI 應用 + Python（下）**]({{SLIDES_LINK}})<br>• 進階互動與 API 基礎操作<br>• 實作：使用 Gemini API 擴充聊天機器人功能 | [操作練習]({{COLAB_LINK}})<br>[HW3]({{FORMS_LINK}}) |
