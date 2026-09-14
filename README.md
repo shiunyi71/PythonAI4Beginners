@@ -75,24 +75,24 @@
 
 | 週次 | 主題與內容綱要 | 作業 |
 |------|-------------|------|
-| [Week 01](https://github.com/shiunyi71/PythonAI4Beginners/issues/1) | [**課程介紹**](https://homepage.ntu.edu.tw/~jfanc/Marp/HML02_Python%20AI%20%e5%af%a6%e4%bd%9c%e5%85%a5%e9%96%80%e8%aa%b2%e7%a8%8b/HML01_%e7%ac%ac%e4%b8%80%e5%a0%82%e8%aa%b2/)<br>說明課程目標、學習方式、評分規則與工具環境（Colab、GitHub、作業系統 等） | [**HW0**](https://forms.gle/Wt8dpxz3hFW6dZ6v8)<br>[**HW1**](https://forms.gle/ZsXFA5bCZ4HR5P1W8) |
-| [Week 02](https://github.com/shiunyi71/PythonAI4Beginners/issues/2) | [**AI 基礎概念與生活應用**](https://homepage.ntu.edu.tw/~jfanc/Marp/HML02_Python%20AI%20%e5%af%a6%e4%bd%9c%e5%85%a5%e9%96%80%e8%aa%b2%e7%a8%8b/HML02_AI%20%E5%9F%BA%E7%A4%8E%E6%A6%82%E5%BF%B5%E8%88%87%E7%94%9F%E6%B4%BB%E6%87%89%E7%94%A8/)<br>• 什麼是 AI？AI 在生活中的應用（智慧助手、推薦系統）<br>• AI 與生活議題的連結與探討 | [HW2-1](https://forms.gle/XjrFf4Hre2uzxmvV7)<br>[HW2-2](https://forms.gle/uXHAzWcjimcCQfJ19) |
-| Week 03 | [**AI 應用 + Python（上）**]<br>• 認識 Python 語法基礎（變數、輸入輸出、條件判斷）<br>• 實作：設計一個簡易的 Q&A 聊天機器人 | [操作練習]<br>[HW2] |
-| Week 04 | [**AI 應用 + Python（下）**]<br>• 進階互動與 API 基礎操作<br>• 實作：使用 Gemini API 擴充聊天機器人功能 | [操作練習]<br>[HW3] |
-| Week 05 | [**課程檢視、回顧與統整**]<br>前四週課程內容複習與問題解答 | [操作練習] |
-| Week 06 | [**資料結構與資料型態應用**]<br>• 生活數據管理：如何用程式整理消費數據<br>• DataFrame 基本操作與視覺化（消費統計圖表）<br>• 實作：消費習慣分析專題 | [操作練習]<br>[HW4] |
-| Week 07 | [**檔案格式與數據處理**]<br>• 旅遊計畫專題：CSV 與 JSON 數據格式解析與應用<br>• 實作：讀取、儲存與分析旅遊行程資料 | [操作練習]<br>[HW5] |
-| Week 08 | [**簡單的模型訓練（上）**]<br>• 機器學習原理簡介<br>• 實作：簡單的機器學習模型訓練練習 | [操作練習] |
-| Week 09 | [**簡單的模型訓練（下）**]<br>• 學習模型的訓練原理與流程<br>• 實作：預測房價的簡單模型，讀取與訓練模型 | [操作練習] |
-| Week 10 | [**課程檢視、回顧與統整**]<br>第 6-9 週課程內容複習與問題解答 | [操作練習] |
-| Week 11 | [**作業回顧與解題**]<br>• HW1~HW3 作業檢討與共通錯誤解析<br>• 助教答疑與優良作業分享 | [操作練習] |
-| Week 12 | [**圖像識別入門（上）**]<br>• 神經網路入門<br>• 實作：基本的卷積神經網絡（CNN） | [操作練習] |
-| Week 13 | [**圖像識別入門（下）**]<br>• 手寫數字識別的圖像識別模型<br>• 實作：建立圖像識別模型來辨識手寫數字，用於自動化處理表單或考試卷 | [操作練習] |
-| Week 14 | [**網路資料自動爬取與資料分析**]<br>• 網頁爬蟲技術（requests + BeautifulSoup）<br>• 實作：新聞資料爬取、清理與視覺化 | [操作練習] |
-| Week 15 | [**課程檢視、回顧與統整**]<br>第 12-14 週課程內容複習與問題解答 | [操作練習] |
-| Week 16 | [**作業回顧與解題**]<br>• HW4~HW5 作業檢討與優良作品分享<br>• 分析常見問題並示範最佳實作技巧 | [操作練習] |
-| Week 17 | [**應用專題設計**]<br>• 整合所學完成個人期末專題<br>• 期末專題簡報與反饋練習 | [期末專題繳交] |
-| Week 18 | [**期末總結**]<br>• 課程總整回顧（含共通問題評析與回饋）<br>• 學習成果展示 | [**期末問卷**] |
+| [Week01](https://github.com/shiunyi71/PythonAI4Beginners/issues/1) | [**課程介紹**](https://homepage.ntu.edu.tw/~jfanc/Marp/HML02_Python%20AI%20%e5%af%a6%e4%bd%9c%e5%85%a5%e9%96%80%e8%aa%b2%e7%a8%8b/HML01_%e7%ac%ac%e4%b8%80%e5%a0%82%e8%aa%b2/)<br>說明課程目標、學習方式、評分規則與工具環境（Colab、GitHub、作業系統 等） | [**HW0**](https://forms.gle/Wt8dpxz3hFW6dZ6v8)<br>[**HW1**](https://forms.gle/ZsXFA5bCZ4HR5P1W8) |
+| [Week02](https://github.com/shiunyi71/PythonAI4Beginners/issues/2) | [**AI 基礎概念與生活應用**](https://homepage.ntu.edu.tw/~jfanc/Marp/HML02_Python%20AI%20%e5%af%a6%e4%bd%9c%e5%85%a5%e9%96%80%e8%aa%b2%e7%a8%8b/HML02_AI%20%E5%9F%BA%E7%A4%8E%E6%A6%82%E5%BF%B5%E8%88%87%E7%94%9F%E6%B4%BB%E6%87%89%E7%94%A8/)<br>• 什麼是 AI？AI 在生活中的應用（智慧助手、推薦系統）<br>• AI 與生活議題的連結與探討 | [HW2-1](https://forms.gle/XjrFf4Hre2uzxmvV7)<br>[HW2-2](https://forms.gle/uXHAzWcjimcCQfJ19) |
+| Week03 | [**AI 應用 + Python（上）**](https://homepage.ntu.edu.tw/~jfanc/Marp/HML02_Python%20AI%20%E5%AF%A6%E4%BD%9C%E5%85%A5%E9%96%80%E8%AA%B2%E7%A8%8B/HML03_AI%20%E6%87%89%E7%94%A8+Python%EF%BC%88%E4%B8%8A%EF%BC%89/)<br>• 認識 Python 語法基礎（變數、輸入輸出、條件判斷）<br>• 實作：設計一個簡易的 Q&A 聊天機器人 | [操作練習](https://colab.research.google.com/drive/13hyFO-K6u3FQ4mDpglYNUMCzHnI2Jnmk)<br>[HW3](https://forms.gle/mv4PNBttshryZ7FWA) |
+| Week04 | [**AI 應用 + Python（下）**]<br>• 進階互動與 API 基礎操作<br>• 實作：使用 Gemini API 擴充聊天機器人功能 | [操作練習]<br>[HWx] |
+| Week05 | [**課程檢視、回顧與統整**]<br>前四週課程內容複習與問題解答 | [操作練習] |
+| Week06 | [**資料結構與資料型態應用**]<br>• 生活數據管理：如何用程式整理消費數據<br>• DataFrame 基本操作與視覺化（消費統計圖表）<br>• 實作：消費習慣分析專題 | [操作練習]<br>[HWx] |
+| Week07 | [**檔案格式與數據處理**]<br>• 旅遊計畫專題：CSV 與 JSON 數據格式解析與應用<br>• 實作：讀取、儲存與分析旅遊行程資料 | [操作練習]<br>[HWx] |
+| Week08 | [**簡單的模型訓練（上）**]<br>• 機器學習原理簡介<br>• 實作：簡單的機器學習模型訓練練習 | [操作練習] |
+| Week09 | [**簡單的模型訓練（下）**]<br>• 學習模型的訓練原理與流程<br>• 實作：預測房價的簡單模型，讀取與訓練模型 | [操作練習] |
+| Week10 | [**課程檢視、回顧與統整**]<br>第 6-9 週課程內容複習與問題解答 | [操作練習] |
+| Week11 | [**作業回顧與解題**]<br>• HW1~HW3 作業檢討與共通錯誤解析<br>• 助教答疑與優良作業分享 | [操作練習] |
+| Week12 | [**圖像識別入門（上）**]<br>• 神經網路入門<br>• 實作：基本的卷積神經網絡（CNN） | [操作練習] |
+| Week13 | [**圖像識別入門（下）**]<br>• 手寫數字識別的圖像識別模型<br>• 實作：建立圖像識別模型來辨識手寫數字，用於自動化處理表單或考試卷 | [操作練習] |
+| Week14 | [**網路資料自動爬取與資料分析**]<br>• 網頁爬蟲技術（requests + BeautifulSoup）<br>• 實作：新聞資料爬取、清理與視覺化 | [操作練習] |
+| Week15 | [**課程檢視、回顧與統整**]<br>第 12-14 週課程內容複習與問題解答 | [操作練習] |
+| Week16 | [**作業回顧與解題**]<br>• HW4~HW5 作業檢討與優良作品分享<br>• 分析常見問題並示範最佳實作技巧 | [操作練習] |
+| Week17 | [**應用專題設計**]<br>• 整合所學完成個人期末專題<br>• 期末專題簡報與反饋練習 | [期末專題繳交] |
+| Week18 | [**期末總結**]<br>• 課程總整回顧（含共通問題評析與回饋）<br>• 學習成果展示 | [**期末問卷**] |
 
 ---
 
