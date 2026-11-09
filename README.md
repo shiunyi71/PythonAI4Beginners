@@ -85,12 +85,12 @@
 | Week08 | [**簡單的模型訓練（上）**](https://homepage.ntu.edu.tw/~jfanc/Marp/HML02_Python%20AI%20%E5%AF%A6%E4%BD%9C%E5%85%A5%E9%96%80%E8%AA%B2%E7%A8%8B/HML08_%E7%B0%A1%E5%96%AE%E7%9A%84%E7%B7%9A%E6%80%A7%E8%BF%B4%E6%AD%B8%E6%A8%A1%E5%9E%8BI/)<br>• 機器學習原理簡介<br>• 實作：簡單的機器學習模型訓練練習 | [操作練習](https://colab.research.google.com/drive/1_oXJ1bSja-umToLrNNmCcia6uDFPD5bQ)<br>[HW7](https://forms.gle/NEz89tXjdtDHYGNq7) | |
 | Week09 | [**簡單的模型訓練（下）**](https://homepage.ntu.edu.tw/~jfanc/Marp/HML02_Python%20AI%20%E5%AF%A6%E4%BD%9C%E5%85%A5%E9%96%80%E8%AA%B2%E7%A8%8B/HML09_%E7%B0%A1%E5%96%AE%E7%9A%84%E7%B7%9A%E6%80%A7%E8%BF%B4%E6%AD%B8%E6%A8%A1%E5%9E%8BII/)<br>• 學習模型的訓練原理與流程<br>• 實作：預測房價的簡單模型，讀取與訓練模型 | [操作練習](https://colab.research.google.com/drive/1a4q0MgSrj_0faeG4V9e7jyQz6GrYmVp1#scrollTo=9WiX-mVgjeGy)<br>[HW8](https://forms.gle/io2MVypR3JixiURr7) |
 | Week10 | [**課程檢視、回顧與統整**](https://homepage.ntu.edu.tw/~jfanc/Marp/HML02_Python%20AI%20%E5%AF%A6%E4%BD%9C%E5%85%A5%E9%96%80%E8%AA%B2%E7%A8%8B/HML10_%E8%AA%B2%E7%A8%8B%E5%9B%9E%E9%A1%A7/)<br>第 6-9 週課程內容複習與問題解答 | [操作練習](https://colab.research.google.com/drive/1pNrH5JY98CJsJ9aRsbvAJZNn2tKVJOCB) |
-| Week11 | [**作業回顧與解題**]<br>• HW1~HW3 作業檢討與共通錯誤解析<br>• 助教答疑與優良作業分享 | [操作練習] |
+| Week11 | [**作業回顧與解析**](https://homepage.ntu.edu.tw/~jfanc/Marp/HML02_Python%20AI%20%E5%AF%A6%E4%BD%9C%E5%85%A5%E9%96%80%E8%AA%B2%E7%A8%8B/HML11_%E4%BD%9C%E6%A5%AD%E5%9B%9E%E9%A1%A7/)<br>• HW1~HW5 作業檢討與共通錯誤解析 |  |
 | Week12 | [**圖像識別入門（上）**]<br>• 神經網路入門<br>• 實作：基本的卷積神經網絡（CNN） | [操作練習] |
 | Week13 | [**圖像識別入門（下）**]<br>• 手寫數字識別的圖像識別模型<br>• 實作：建立圖像識別模型來辨識手寫數字，用於自動化處理表單或考試卷 | [操作練習] |
 | Week14 | [**網路資料自動爬取與資料分析**]<br>• 網頁爬蟲技術（requests + BeautifulSoup）<br>• 實作：新聞資料爬取、清理與視覺化 | [操作練習] |
 | Week15 | [**課程檢視、回顧與統整**]<br>第 12-14 週課程內容複習與問題解答 | [操作練習] |
-| Week16 | [**作業回顧與解題**]<br>• HW4~HW5 作業檢討與優良作品分享<br>• 分析常見問題並示範最佳實作技巧 | [操作練習] |
+| Week16 | [**作業回顧與解題**]<br>• HW6~HW10 作業檢討與優良作品分享<br>• 分析常見問題並示範最佳實作技巧 | [操作練習] |
 | Week17 | [**應用專題設計**]<br>• 整合所學完成個人期末專題<br>• 期末專題簡報與反饋練習 | [期末專題繳交] |
 | Week18 | [**期末總結**]<br>• 課程總整回顧（含共通問題評析與回饋）<br>• 學習成果展示 | [**期末問卷**] |
 
